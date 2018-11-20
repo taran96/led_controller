@@ -1,0 +1,6 @@
+fs/conf9.json
+.vscode/
+external/
+build/
+
+.DS_Store
